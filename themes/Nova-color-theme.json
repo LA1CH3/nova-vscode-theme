@@ -1,5 +1,5 @@
 {
-  "name": "Space",
+  "name": "Nova",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "foreground": "#719edf"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "foreground": "#eab37b"
       }
     },
@@ -1768,7 +1768,7 @@
     "list.inactiveSelectionForeground": "#cccccc",
     "list.hoverBackground": "#92decf80",
     "list.hoverForeground": "#cccccc",
-    "list.activeSelectionBackground": "#92decfe7",
+    "list.activeSelectionBackground": "#add99591",
     "list.activeSelectionForeground": "#1e262a",
     "tree.indentGuidesStroke": "#92decf80",
     "list.dropBackground": "#273034",
@@ -1792,7 +1792,7 @@
     "titleBar.activeForeground": "#add995",
     "titleBar.inactiveBackground": "#1e262a",
     "titleBar.inactiveForeground": "#cccccc99",
-    "titleBar.border": "#00000000",
+    "titleBar.border": "#92decf80",
     "menubar.selectionForeground": "#9aacb6",
     "menubar.selectionBackground": "#ffffff1a",
     "menu.foreground": "#9aacb6",
@@ -1847,8 +1847,8 @@
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#888888",
     "editor.foldBackground": "#264f784d",
-    "editorOverviewRuler.background": "#25252500",
-    "editorOverviewRuler.border": "#7f7f7f4d",
+    "editorOverviewRuler.background": "#1e262a",
+    "editorOverviewRuler.border": "#384a52",
     "editorError.foreground": "#eab37b",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
@@ -1909,8 +1909,8 @@
     "tab.inactiveBackground": "#1e262a",
     "tab.inactiveForeground": "#ffffff80",
     "scrollbarSlider.background": "#92decf80",
-    "scrollbarSlider.hoverBackground": "#646464b3",
-    "scrollbarSlider.activeBackground": "#bfbfbf66",
+    "scrollbarSlider.hoverBackground": "#92decf48",
+    "scrollbarSlider.activeBackground": "#92decfbf",
     "progressBar.background": "#add995",
     "widget.shadow": "#0000005c",
     "editorWidget.foreground": "#cccccc",
